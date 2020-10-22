@@ -1,0 +1,18 @@
+Base de datos:
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=taller1db
+DB_USERNAME= "Your user"
+DB_PASSWORD= "Your pass"
+
+Run Artisan:
+php artisan serve --host=localhost --port=8000
+
+Resourse/Views:
+have the project views
+
+ProductController:
+CRUD
+
